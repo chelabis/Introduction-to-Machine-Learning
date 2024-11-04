@@ -8,3 +8,7 @@
 #### Linear regression
 ### Part 3.1: Multi-class classification
 #### Support vector machines, Decision trees
+### Part 4: Evaluation
+#### Classification evaluation, regression evaluation
+### Part 5: Supervised Learning 2
+#### Neural Networks, MLP
