@@ -12,3 +12,5 @@
 #### Classification evaluation, regression evaluation
 ### Part 5: Supervised Learning 2
 #### Neural Networks, MLP
+### Part 6: Unsupervised Learning
+#### PCA, Clustering
