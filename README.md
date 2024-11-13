@@ -14,3 +14,6 @@
 #### Neural Networks, MLP
 ### Part 6: Unsupervised Learning
 #### PCA, Clustering
+
+#### Datasets: aut.csv, fruit_data_with_colours.csv
+#### python file for plotting: myplt.py
